@@ -1,0 +1,18 @@
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\bin\Debug\Pdf a Word.exe.config
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\bin\Debug\Pdf a Word.exe
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\bin\Debug\Pdf a Word.pdb
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\bin\Debug\Guna.UI.dll
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\bin\Debug\SautinSoft.PdfFocus.xml
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\obj\Debug\Pdf a Word.csprojAssemblyReference.cache
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\obj\Debug\Pdf_a_Word.Form1.resources
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\obj\Debug\Pdf_a_Word.Properties.Resources.resources
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\obj\Debug\Pdf a Word.csproj.GenerateResource.cache
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\obj\Debug\Pdf a Word.csproj.CoreCompileInputs.cache
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\obj\Debug\Pdf a Word.csproj.CopyComplete
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\obj\Debug\Pdf a Word.exe
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\obj\Debug\Pdf a Word.pdb
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\obj\Debug\Pdf_a_Word.Carga.resources
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\bin\Debug\CircularProgressBar.dll
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\bin\Debug\WinFormAnimation.dll
+C:\Users\lendo\source\repos\Pdf a Word\Pdf a Word\bin\Debug\CircularProgressBar.xml
